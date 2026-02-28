@@ -1,0 +1,1 @@
+This project aims to forecast short-term gold price movements (XAU/USD) using time series analysis. The objective is to build a basic forecasting model to support financial decision-making and understand market trends.
